@@ -3,7 +3,7 @@
 
 # BoxCal Frontend
 
-![home](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/homebox.png)
+![home](https://github.com/LuNa-coder-code/frontend/blob/main/readmeimages/homebox.png)
 
 
 ##
@@ -11,17 +11,18 @@
 Das Frontend von BoxCal bietet eine Benutzeroberfläche für die Kalender-App, die alle anstehenden Boxwettkämpfe anzeigt. 
 
 
-![calbox](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/calbox.png)
+![calbox](https://github.com/LuNa-coder-code/frontend/blob/main/readmeimages/calbox.png)
 
-![calboxevent](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/calboxevent.png)
+![calboxevent](https://github.com/LuNa-coder-code/frontend/blob/main/readmeimages/calboxevent.png)
+
 
 Nutzer_innen können Wettkämpfe in einer Detailansicht betrachten und aktualisieren:
 
-![calboxupdate](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/calboxupdate.png)
+![calboxupdate](https://github.com/LuNa-coder-code/frontend/blob/main/readmeimages/calboxupdate.png)
 
 Und über eine Tabellenansicht alle Kämpfe überblicken und ggf löschen:
 
-![calboxtable](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/calboxtable.png)
+![calboxtable](https://github.com/LuNa-coder-code/frontend/blob/main/readmeimages/calboxtable.png)
 
 
  [Check it out](!!LINK!!)
