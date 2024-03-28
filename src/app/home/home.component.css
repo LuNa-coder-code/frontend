@@ -1,0 +1,27 @@
+.custom-layout {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #a83232;
+    color: white;
+    padding: 20px;
+}
+
+.image-container {
+    flex: 1;
+    max-width: 70%;
+}
+
+.image-container img {
+    width: 100%;
+    max-width: 400px; 
+    height: auto; 
+}
+
+.quote-container {
+    flex: 1;
+    max-width: 70%;
+    font-size: 40px;
+    padding: 0 40px;
+}

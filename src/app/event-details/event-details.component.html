@@ -1,0 +1,40 @@
+<main class="d-flex min-vh-100">
+    <fieldset class="container  mt-5">
+      <legend *ngIf="boxevent" class="mb-4">FIGHT: {{ boxevent.name }}
+      </legend>
+      <legend *ngIf="!boxevent" class="mb-4">update</legend>
+      <form [formGroup]="form" (ngSubmit)="update()">
+        <div class="mb-3 row">
+          <label class="col-2 col-form-label" for="name">Event</label>
+          <div class="col-10">
+            <input type="text" class="form-control" id="name" placeholder="Event"
+            formControlName="nameControl" />
+          </div>
+        </div>
+        <div class="mb-3 row">
+          <label class="col-2 col-form-label" for="date">Date</label>
+          <div class="col-10">
+            <input type="text" class="col-10 form-control" id="date" placeholder="Date"
+            formControlName="dateControl" />
+          </div>
+        </div>
+        <div class="mb-3 row">
+          <label class="col-2 col-form-label" for="location">Location</label>
+          <div class="col-10">
+            <input type="location" class="col-10 form-control" id="location" placeholder="location" formControlName="locationControl" />
+          </div>
+        </div>
+        <div class="mb-3 row">
+          <label class="col-2 col-form-label" for="description">Description</label>
+          <div class="col-10">
+            <input type="text" class="col-10 form-control" id="description" placeholder="description" formControlName="descriptionControl" />
+          </div>
+        </div>
+        <div class="row ">
+          <button type="submit" class="col-5 btn btn-secondary">submit</button>
+          <div class="col-2"></div>
+          <button type="button" class="col-5 btn btn-secondary" (click)="cancel() ">cancel</button>
+        </div>
+      </form>
+    </fieldset>
+  </main>

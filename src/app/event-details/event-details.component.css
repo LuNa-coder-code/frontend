@@ -1,0 +1,43 @@
+main {
+  background-color: #a83232;
+  display: flex;
+  justify-content: center;
+  align-items: normal;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+fieldset {
+  color: white;
+  width: 100%;
+  max-width: 600px;
+}
+
+form .row + .row {
+  margin-top: 15px;
+}
+
+form label {
+  color: white;
+}
+
+.btn {
+  background-color: white;
+  color: #a83232;
+  border: 1px solid #a83232;
+}
+
+.btn:hover {
+  background-color: #a83232;
+  color: white;
+  border-color: white;
+}
+
+.form-control {
+  background-color: #fff;
+  color: #333;
+}
+
+legend {
+  color: white;
+}
