@@ -1,14 +1,20 @@
 
-
-
-# BoxCal Frontend
+# BoxCal Kalender App für anstehende Boxkämpfe
 
 ![home](https://github.com/LuNa-coder-code/frontend/blob/main/readmeimages/homebox.png)
 
+## Inhaltsverzeichnis
 
-##
+- [About](#about)
+- [Voraussetzungen](#voraussetzungen)
+- [Installation](#installation)
+- [Starten der Anwendung](#starten-der-anwendung)
+- [Deployment](#deployment)
+- [Lizenz](#lizenz)
 
-Das Frontend von BoxCal bietet eine Benutzeroberfläche für die Kalender-App, die alle anstehenden Boxwettkämpfe anzeigt. 
+## About
+
+ BoxCal bietet eine Benutzeroberfläche für die Kalender-App, die alle anstehenden Boxwettkämpfe anzeigt und manipulieren lässt. 
 
 
 ![calbox](https://github.com/LuNa-coder-code/frontend/blob/main/readmeimages/calbox.png)
@@ -25,15 +31,9 @@ Und über eine Tabellenansicht alle Kämpfe überblicken und ggf löschen:
 ![calboxtable](https://github.com/LuNa-coder-code/frontend/blob/main/readmeimages/calboxtable.png)
 
 
- [Check it out](!!LINK!!)
+### Check it [out](!!LINK!!) !
 
-## Inhaltsverzeichnis
 
-- [Voraussetzungen](#voraussetzungen)
-- [Installation](#installation)
-- [Starten der Anwendung](#starten-der-anwendung)
-- [Deployment](#deployment)
-- [Lizenz](#lizenz)
 
 ## Voraussetzungen
 
