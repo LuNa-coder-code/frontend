@@ -1,8 +1,30 @@
-### Frontend README.md
+
+
 
 # BoxCal Frontend
 
-Das Frontend von BoxCal bietet eine Benutzeroberfläche für die Kalender-App, die alle anstehenden Boxwettkämpfe anzeigt. Nutzer können Wettkämpfe in einer Detailansicht betrachten, aktualisieren und über eine Tabellenansicht alle Kämpfe überblicken und löschen.
+![home](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/homebox.png)
+
+
+##
+
+Das Frontend von BoxCal bietet eine Benutzeroberfläche für die Kalender-App, die alle anstehenden Boxwettkämpfe anzeigt. 
+
+
+![calbox](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/calbox.png)
+
+![calboxevent](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/calboxevent.png)
+
+Nutzer_innen können Wettkämpfe in einer Detailansicht betrachten und aktualisieren:
+
+![calboxupdate](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/calboxupdate.png)
+
+Und über eine Tabellenansicht alle Kämpfe überblicken und ggf löschen:
+
+![calboxtable](https://github.com/LuNa-coder-code/frontend/blob/main//Users/marthamuse/Sites/frontend/src/readmeimages/calboxtable.png)
+
+
+ [Check it out](!!LINK!!)
 
 ## Inhaltsverzeichnis
 
@@ -14,8 +36,12 @@ Das Frontend von BoxCal bietet eine Benutzeroberfläche für die Kalender-App, d
 
 ## Voraussetzungen
 
-- Node.js
-- npm
+
+    - Backend clonen, installieren und starten
+    - Angular Version: 17.0.5
+    - Node: 20.10.0
+    - Package Manager: npm 10.2.3
+
 
 ## Installation
 
@@ -42,7 +68,7 @@ Die Anwendung läuft auf `http://localhost:4200`
 
 ## Deployment
 
-Auf Vercel.
+Frontend ist auf [Vercel](https://vercel.com) deployed. 
 
 ## Lizenz
 
